@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1745941417501,
+    "name": "TestUser",
+    "password": "$2b$10$G60S6d/2esExDM1UMAq3ROpVbldbqt8p2gPTFx.C/S26aD0epNPxe",
+    "budget": 1900,
+    "role": "user"
+  },
+  {
+    "id": 1745944507858,
+    "name": "Test",
+    "budget": 945,
+    "password": "$2b$10$iS9nUOW2vp3BlFfVTAelX.OniHmfURKLx8rsoHlsSNC3Ez/9AY6k6",
+    "role": "user"
+  },
+  {
+    "id": 1745945245544,
+    "name": "admin",
+    "budget": 970,
+    "password": "$2b$10$4RRubTVLLRSjDnwGQkNRqu8SD4QllrOwhnCMDhtJSZ2waOsRNmH4q",
+    "role": "admin",
+    "inventory": {
+      "food": 1,
+      "toy": 1,
+      "treat": 1
+    }
+  }
+]

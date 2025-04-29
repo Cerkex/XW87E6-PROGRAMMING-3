@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Bella",
+    "type": "puppy",
+    "adopted": true,
+    "ownerId": 1745941417501,
+    "hunger": 30,
+    "happiness": 80
+  },
+  {
+    "id": 2,
+    "name": "Max",
+    "type": "kitten",
+    "adopted": true
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "type": "puppy",
+    "adopted": true,
+    "ownerId": 1745944507858,
+    "hunger": 30,
+    "happiness": 50
+  },
+  {
+    "id": 4,
+    "name": "Luna",
+    "type": "kitten",
+    "adopted": false
+  },
+  {
+    "id": 5,
+    "name": "Rocky",
+    "type": "puppy",
+    "adopted": true
+  },
+  {
+    "id": 1745946280017,
+    "name": "NewPuppy",
+    "type": "puppy",
+    "adopted": false,
+    "hunger": 50,
+    "happiness": 50,
+    "ownerId": null
+  }
+]
