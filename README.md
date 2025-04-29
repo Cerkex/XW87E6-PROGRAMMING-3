@@ -1,3 +1,5 @@
+# NEPTUN CODE: XW87E6 
+
 # Pet Portal Skeleton
 
 A web application that provides a platform for pet adoption and e-commerce. Users can register, log in, browse available pets, submit adoption requests, and purchase pet-related products.
